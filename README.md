@@ -1,7 +1,7 @@
 # <div align="center">Hello World! 👋 I'm Rafael 🚀</div>
 
 <div align="center">
-  <img src="https://your-awesome-image-url.com" alt="Rafael's Coding Adventure">
+  <img src="https://placekitten.com/800/300" alt="Rafael's Coding Adventure">
 </div>
 
 ## 🌱 About Me
