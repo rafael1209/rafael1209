@@ -19,6 +19,12 @@ Hey fellow coders! 👨‍💻 I'm Rafael, a passionate C# explorer navigating t
 2. **Enchanted Chatbot:** Teaching an AI to cast spells through conversation.
 3. **Potion Mixer:** Brewing a concoction of code and creativity.
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Rafael's GitHub Stats">
+</div>
+
 ## 🧙 Let's Cast a Connection Spell!
 
 Feel free to join me on this magical journey of coding, collaboration, and creativity. The adventure awaits! ✨🚀
