@@ -21,10 +21,6 @@ Hey fellow coders! 👨‍💻 I'm Rafael, a passionate C# explorer navigating t
 
 ## 🧙 Let's Cast a Connection Spell!
 
-- 🐦 **Twitter Incantation**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 💼 **LinkedIn Potion**: [Connect with me!](https://www.linkedin.com/in/yourlinkedinprofile)
-- 🌌 **Portfolio Spellbook**: [Explore My Realm](https://yourportfolio.com)
-
 Feel free to join me on this magical journey of coding, collaboration, and creativity. The adventure awaits! ✨🚀
 
 <p align="center">
