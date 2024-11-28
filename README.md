@@ -25,10 +25,7 @@ Hey fellow coders! 👨‍💻 I'm Rafael, a passionate C# explorer navigating t
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafael1209&show_icons=true&theme=radical" alt="Rafael's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael1209&layout=compact&theme=white" alt="stuts">
-</div>
+
 
 ## 🧙 Let's Cast a Connection Spell!
 
