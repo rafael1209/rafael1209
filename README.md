@@ -9,6 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rafael1209&show_icons=true&theme=white" alt="Rafael's GitHub Stats">
 </div>
 ## 
+
 ![Frame 68](https://github.com/user-attachments/assets/98c32819-e003-41bc-9b3a-10c4775d0175)
 
 ## 🌱 About Me
