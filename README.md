@@ -1,6 +1,7 @@
 # <div align="center">Hello World! 👋 I'm Rafael 🚀</div>
 
-![Frame 170](https://github.com/user-attachments/assets/666ed88b-1db0-42ce-865c-091c52c2ed82)
+![Frame 170](https://github.com/user-attachments/assets/db8c7f05-8e97-4baa-9237-f21723ff171c)
+
 
 ## 🌱 About Me
 
