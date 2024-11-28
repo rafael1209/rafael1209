@@ -11,6 +11,8 @@
 - **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 - **Backend**: ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 - **Database**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+- **Языки**: ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+- **Базы данных**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 
 ## 
 
@@ -23,5 +25,5 @@
 
 ![Frame 68](https://github.com/user-attachments/assets/98c32819-e003-41bc-9b3a-10c4775d0175)
 
-### [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/ваш_никнейм)
-### [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/ваш_профиль)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/ваш_никнейм)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/ваш_профиль)
