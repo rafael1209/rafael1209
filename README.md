@@ -1,5 +1,3 @@
-# <div align="center">Hello World! 👋 I'm Rafael 🚀</div>
-
 ![Frame 170](https://github.com/user-attachments/assets/db8c7f05-8e97-4baa-9237-f21723ff171c)
 
 ![Frame 66](https://github.com/user-attachments/assets/85c2aa52-73d8-4d26-8a85-d2693c7158f1)
