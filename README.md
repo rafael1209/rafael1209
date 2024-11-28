@@ -1,8 +1,6 @@
 # <div align="center">Hello World! 👋 I'm Rafael 🚀</div>
 
-<div align="center">
-  <img src="https://picsum.photos//900/300" alt="Rafael's Coding Adventure">
-</div>
+![Frame 170](https://github.com/user-attachments/assets/1661df4e-4b10-49df-8519-e8bff05a6b90)
 
 ## 🌱 About Me
 
