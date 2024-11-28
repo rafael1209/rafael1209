@@ -6,6 +6,14 @@
 
 ![Frame 69](https://github.com/user-attachments/assets/d1312777-6e48-4649-abce-15bc4f61ea01)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafael1209&show_icons=true&theme=radical" alt="Rafael's GitHub Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael1209&layout=compact&theme=white" alt="stuts">
+</div>
+
 ![Frame 68](https://github.com/user-attachments/assets/98c32819-e003-41bc-9b3a-10c4775d0175)
 
 ## 🌱 About Me
