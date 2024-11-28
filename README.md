@@ -23,4 +23,7 @@
 
 ![Frame 68](https://github.com/user-attachments/assets/98c32819-e003-41bc-9b3a-10c4775d0175)
 
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/ваш_никнейм)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/ваш_профиль)
+
 ## 
