@@ -6,6 +6,8 @@ Backend Developer | C# Specialist | API Integration Expert
 
 ![Frame 66](https://github.com/user-attachments/assets/85c2aa52-73d8-4d26-8a85-d2693c7158f1)
 
+I am a skilled backend developer specializing in C# with extensive experience in creating high-performance applications, Telegram and Discord bots, and backend solutions for marketplaces. My expertise includes working with APIs, such as real-time alert systems and payment gateways like Yandex.Checkout. I am proficient in database management using MongoDB and have a strong background in developing Unity WebGL projects. My focus is on building efficient, scalable, and reliable systems tailored to meet specific project requirements.
+
 ## 
 
 ![Frame 67](https://github.com/user-attachments/assets/b0ed95c8-7e09-46f2-a9b3-a29b5a075667)
