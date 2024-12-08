@@ -38,15 +38,14 @@ I am a skilled backend developer specializing in C# with extensive experience in
 
 ![Frame 68](https://github.com/user-attachments/assets/98c32819-e003-41bc-9b3a-10c4775d0175)
 
-<br>
 <p align="center">
-  <a href="https://discord.com/users/773259384095768657" target="_blank">
+  <a href="https://discord.com/users/773259384095768657" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://t.me/RafaelloChas" target="_blank">
+  <a href="https://t.me/RafaelloChas" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="mailto:mr.chasmanrafael@gmail.com" target="_blank">
+  <a href="mailto:mr.chasmanrafael@gmail.com" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/chasman" target="_blank">
