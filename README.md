@@ -40,7 +40,7 @@ I am a skilled backend developer specializing in C# with extensive experience in
 
 <br>
 <p align="center">
-  <a href="https://discord.com/users/472393576010088449" target="_blank">
+  <a href="https://discord.com/users/773259384095768657" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://t.me/Swino4ka" target="_blank">
