@@ -43,19 +43,13 @@ I am a skilled backend developer specializing in C# with extensive experience in
   <a href="https://discord.com/users/773259384095768657" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://t.me/Swino4ka" target="_blank">
+  <a href="https://t.me/RafaelloChas" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="mailto:rybalalka@gmail.com" target="_blank">
+  <a href="mailto:mr.chasmanrafael@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://steamcommunity.com/profiles/76561198806638670/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
-  </a>
-  <a href="https://www.youtube.com/@swino4ka" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://www.linkedin.com/in/oleksandr-kvartiuk-b24171265" target="_blank">
+  <a href="https://www.linkedin.com/in/chasman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
