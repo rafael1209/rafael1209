@@ -12,6 +12,24 @@ I am a skilled backend developer specializing in C# with extensive experience in
 
 ![Frame 67](https://github.com/user-attachments/assets/b0ed95c8-7e09-46f2-a9b3-a29b5a075667)
 
+## 🛠️ My Projects
+- [Marketplace Backend](https://github.com/yourusername/marketplace-backend)  
+  **Краткое описание:** Разработка бэкенда для маркетплейса с использованием C# и MongoDB, поддерживающего микросервисную архитектуру.
+
+- [Israel Alerts API Client](https://github.com/yourusername/israel-alerts-api-client)  
+  **Краткое описание:** Клиент для работы с API Командования тыла Израиля для мониторинга и получения уведомлений в реальном времени.
+
+- [Telegram Bot for Crypto Alerts](https://github.com/yourusername/crypto-alerts-bot)  
+  **Краткое описание:** Телеграм-бот для отслеживания резких изменений цен криптовалют и отправки уведомлений.
+
+- [Unity WebGL Project](https://github.com/yourusername/unity-webgl-project)  
+  **Краткое описание:** Проект с кастомизированным интерфейсом для запуска Unity WebGL игры в браузере.
+
+- [Payment Integration Service](https://github.com/yourusername/payment-integration-service)  
+  **Краткое описание:** Сервис для интеграции с платёжной системой Яндекс.Касса.
+
+![Frame 67](https://github.com/user-attachments/assets/b0ed95c8-7e09-46f2-a9b3-a29b5a075667)
+
 ### 👨‍💻 Programming Languages
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat), ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
