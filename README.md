@@ -16,8 +16,8 @@ I am a skilled backend developer specializing in C# with extensive experience in
 - [Pump & Dump Alert Bot](https://t.me/DumpPumpAlertBot)
   A Telegram bot that scans over 500 trading pairs in real-time, detecting sharp price movements and sending instant alerts. Integrated with Binance and Bybit, it offers customizable settings and a user-friendly subscription interface.
 ##
-- [Pump & Dump Alert Bot](https://t.me/DumpPumpAlertBot)
-  A Telegram bot that scans over 500 trading pairs in real-time, detecting sharp price movements and sending instant alerts. Integrated with Binance and Bybit, it offers customizable settings and a user-friendly subscription interface.
+- [Mix News IL](https://t.me/mixnewsil)
+  A Telegram channel providing real-time news updates and stories from Israel, combining local and national news into a single, easy-to-follow feed.
 ## 
 
 ![Frame 67](https://github.com/user-attachments/assets/b0ed95c8-7e09-46f2-a9b3-a29b5a075667)
