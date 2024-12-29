@@ -13,12 +13,22 @@ I am a skilled backend developer specializing in C# with extensive experience in
 ![Frame 67](https://github.com/user-attachments/assets/b0ed95c8-7e09-46f2-a9b3-a29b5a075667)
 
 ## 🛠️ My Projects
-- [Pump & Dump Alert Bot](https://t.me/DumpPumpAlertBot)
+- [Pump & Dump Alert Bot](https://t.me/DumpPumpAlertBot)  
   A Telegram bot that scans over 500 trading pairs in real-time, detecting sharp price movements and sending instant alerts. Integrated with Binance and Bybit, it offers customizable settings and a user-friendly subscription interface.
-##
-- [Mix News IL](https://t.me/mixnewsil)
+
+- [Mix News IL](https://t.me/mixnewsil)  
   A Telegram channel providing real-time news updates and stories from Israel, combining local and national news into a single, easy-to-follow feed.
-## 
+
+- [Israel Home Front Command API](https://github.com/rafael1209/IsraelHomeFrontCommandAPI)  
+  A C# client for real-time alerts and sirens issued by the Israel Home Front Command. Designed for developers who need to integrate emergency notifications into their systems or applications.
+
+- [OnlyMyKey Client](https://github.com/rafael1209/OnlyMyKeyClient)  
+  A secure client application that manages cryptographic keys and integrates seamlessly with hardware security modules. Developed in C# with a focus on security and usability, it provides a streamlined interface for encryption and authentication tasks.
+
+- [OnlyMyKey Backend](https://github.com/rafael1209/OnlyMyKeyBackend)  
+  A backend system for managing cryptographic operations and secure communications. Built with robust architecture, it complements the OnlyMyKey Client by providing APIs for key management, user authentication, and secure data storage.
+
+##
 
 ![Frame 67](https://github.com/user-attachments/assets/b0ed95c8-7e09-46f2-a9b3-a29b5a075667)
 
