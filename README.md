@@ -10,7 +10,7 @@ I am a skilled backend developer specializing in C# with extensive experience in
 
 ## 
 
-![Frame 67](https://github.com/user-attachments/assets/b0ed95c8-7e09-46f2-a9b3-a29b5a075667)
+![Frame 173](https://github.com/user-attachments/assets/cb849848-5459-4880-88a4-7972ca2f5174)
 
 ## 🛠️ My Projects
 - [Pump & Dump Alert Bot](https://t.me/DumpPumpAlertBot)  
