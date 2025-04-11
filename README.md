@@ -51,7 +51,7 @@ I am a skilled backend developer specializing in C# with extensive experience in
 
 ![Frame 69](https://github.com/user-attachments/assets/d1312777-6e48-4649-abce-15bc4f61ea01)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafael1209&show_icons=true&theme=black" alt="Rafael's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafael1209&show_icons=true&theme=dark" alt="Rafael's GitHub Stats">
   <img src="https://nirzak-streak-stats.vercel.app/?user=rafael1209&theme=github_dark&hide_border=false" alt="Rafael's GitHub Stats">
 </div>
 
